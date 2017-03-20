@@ -1,8 +1,19 @@
 # Gomuku
 Jeu de Gomuku en JAVA en ligne de commande.
 
+## Fonctionnalités : 
+- Jouer contre l'ordinateur (une IA "bete")
+- Jouer 1vs1
+- Choisir la taille du plateau
+- Choisir comment finit la partie :
+  - Un nombre d’alignement prédéfini.
+  - Jusqu’à ce que le plateau soit plein.
+- Sauvegarder des parties
+- Regarder des parties sauvegardées
+
+
 ## Tester le jeu
-Pour teester le jeu, il faut tout d'abord compiler :  
+Pour tester le jeu, il faut tout d'abord compiler :  
 `
 javac *.java
 `
